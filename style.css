@@ -1,0 +1,16 @@
+   footer {
+     color: white;
+     background-color: black;
+   }
+   table.text  {
+    width:  100%; /* Ширина таблицы */
+    border-spacing: 0; /* Расстояние между ячейками */
+   }
+   td.rightcol { /* Правая ячейка */ 
+    text-align: right; /* Выравнивание по правому краю */
+   }
+   td.centercol { /* Правая ячейка */ 
+    text-align: center; /* Выравнивание по правому краю */
+   } 
+   p {font-size: 12px;}
+  </style>
